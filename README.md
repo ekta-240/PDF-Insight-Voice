@@ -48,12 +48,9 @@ PDF Insight Voice is a modern web application that lets you upload any PDF, ask 
 5. **Open the app:**
    - Go to [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser.
 ```
-
 ```
-```
-Project Structure
-PDF-Insight-Voice/
-│
+   Project Structure
+ PDF-Insight-Voice/      
 ├── main.py
 ├── requirements.txt
 ├── README.md
@@ -64,7 +61,6 @@ PDF-Insight-Voice/
 │
 └── static/
     └── style.css
-```
 ```
 ```
 
